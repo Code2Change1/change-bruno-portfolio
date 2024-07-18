@@ -2,3 +2,13 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.about {
+  background-color: #ffd877;
+  padding: 20px;
+}
+
+.skills{
+  background-color: #ffd877;
+  padding: 20px;
+}
